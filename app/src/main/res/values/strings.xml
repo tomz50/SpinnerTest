@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">便條紙APP</string>
+    <string name="title_activity_show">便條紙APP</string>
+    <string name="select_region_dialog_title">Spinner 對話視窗標題</string>
+    <string-array name="spn_list">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+    </string-array>
+
+</resources>
